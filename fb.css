@@ -1,0 +1,235 @@
+.header{
+    background-color:#3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50% ;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width:50%;
+    float: left;
+    padding-top:10px;
+}
+.form{
+    margin-left:105px;
+}
+.logo-text{
+    color:#fff;
+    font-size: 38px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color:#fff;
+    font-size:11px;
+}
+
+.forgotten{
+    color:#fff;
+    font-size: 11px;
+    text-decoration: none;
+    color:#9cb4d8;
+}
+.sub-btn{
+    background:#4267b2;
+    color:#fff;
+    height: 20px;
+    border-color:29487d;
+    cursor:pointer;
+}
+
+.sub-btn:hover{
+    background: rgb(54, 54, 109);
+}
+.left-section{
+   margin-left: 50px;
+   
+}
+.right-section{
+    width:50%;
+    float:left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 700px;
+    display :flex;
+    flex:row;
+}
+.image{
+    width: 614px;
+    margin-top: 15px;
+    padding-left: 109px;
+}
+.para{
+ margin-top: 50px;
+ padding-left:115px;
+ font-weight:bold;
+ font-size:21px;
+ color:#3b5998;
+}
+.account{
+    padding-left:101px;
+    font-weight:bold;
+    font-size:33px;
+    color:black;
+    height: 9px;;
+}
+.free{
+     
+    margin-left : 103px;
+    font-size : medium;
+}
+.form1{
+    display:inline-block;
+    
+}
+.fh{
+    margin-left:90px;
+}
+.inputbody{
+    margin-left : 104px;
+    margin-bottom: 10px;
+    border-style:inset;
+    height: 24px;;
+    width:200px;
+    border-color:#fff;
+    font-size:17px;
+    border-radius: 5px;
+    display:inline-block;
+    padding:8px 10px;
+}
+.inputbody1{
+    display:inline-block;
+    font-size:17px;
+    padding:8px 10px;
+    border-color:#fff;
+    border-radius:5px;
+    margin-bottom:10px;
+    width:250px;
+    height: 24px;
+    margin-left:101px;
+    border-style:inset;
+    border-right-width:290px ;
+    color:#333;
+    border:1px soild #bdc7d8;
+
+}
+.inputbody2{
+    display:inline-block;
+    font-size:17px;
+    padding:8px 10px;
+    border-color:#fff;
+    border-radius:5px;
+    margin-bottom:10px;
+    margin-left:101px ;
+    border-style:inset;
+    border-right-width:325px;
+
+}
+.b-day{
+    font-size:19px;
+    color:#141823;
+    margin-top:5px;
+    margin-left:101px;
+}
+.selectbody{
+   
+    display:inline-block;
+    height:30px;
+    font-size:13px;
+    border:1px soild #bdc7d8;
+    border-radius:5px;
+    color:#141823;
+    margin-top:9px;
+    
+}
+.f1{
+    float:left;
+}
+.fb1{
+    font-size:11px;
+    color:#3b5998;
+    width:150px;
+    margin-left:10px;
+    cursor:pointer;
+}
+.h{
+    display:inline-block;
+    vertical-align:middle;
+}
+.mt1{
+    margin-top:15px;
+}
+.formbox{
+    display:inline-block;
+    width:399px;
+}
+.spanpad{
+    padding:5px 0 5px 4px;
+    display:inline-block;
+    margin-left:92px;
+    margin-top:10px;
+}
+.gender{
+    font-size:18px;
+    color:#141823;
+    cursor:pointer;
+    padding:0 10px 0 3px;
+    line-height:18px;
+    vertical-align:middle;
+}
+.agree{
+    margin-left:90px;
+    padding-left:10px;
+    margin-right:-174px ;
+}
+.link{
+    color:#3b5998;
+    display:inline-block;
+    cursor:pointer;
+}
+.signbut{
+    font-size:19px;
+    font-weight:700px;
+    letter-spacing: 1px;
+    color:#fff;
+    min-width:194px;
+    padding:7px 20px;
+    text-align:center;
+    border-radius:5px;
+    background:linear-gradient(#67ae55,#578843);
+    box-shadow:inset 0 1px 1px #a4e388;
+    border:1px solid;
+    border-color:#3b6e22 #3b6e22 #2c5115;
+    margin-top:10px;
+    margin-bottom:10px;
+    text-shadow:0 1px 2px rgd(0 0 0/50%);
+    cursor:pointer;
+    margin-left:90px;
+}
+.bolder{
+    font-family:'open sans',sans-serif;
+    text-rendering:optimizeLegibility;
+    margin-left:90px;
+}
+.linh{
+    color:#3b5998;
+    display:inline-block;
+    cursor:pointer;
+    padding-left:57px;
+
+}
+    
+
+
+
